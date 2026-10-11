@@ -37,4 +37,4 @@ A menu-driven Java console application designed to manage student records effici
 ---
 
 ## GitHub Repository
-**Repository Link:** `https://github.com/YourUsername/CS216L_Project1_GroupName`
+**Repository Link:** `https://github.com/eman12fatima12-cpu/CS216L_Project1_GroupName`
