@@ -30,10 +30,9 @@ A menu-driven Java console application designed to manage student records effici
 ---
 
 ## Program Screenshots
-![Main Menu & Operations](./screenshots/screenshot1.png)
-![Search & Sort Features](./screenshots/screenshot2.png)
-![Undo Action Feature](./screenshots/screenshot3.png)
-
+![Main Menu & Operations](./Screenshot%202026-10-11%20205403.png)
+![Search & Sort Features](./Screenshot%202026-10-11%20205437.png)
+![Undo Action Feature](./Screenshot%202026-10-11%20205522.png)
 ---
 
 ## GitHub Repository
